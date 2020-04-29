@@ -12,5 +12,7 @@
 <li>git-config-git 환경 설정</li>
 <li>git-config-git 환경 설정</li>
 </ul>
+    
+    List.jsp에 파일 추가
 </body>
 </html>
