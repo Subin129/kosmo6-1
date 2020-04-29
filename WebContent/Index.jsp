@@ -8,6 +8,9 @@
 </head>
 <body>
 <h2>깃 수업</h2>
-
+<ul>
+<li>git-config-git 환경 설정</li>
+<li>git-config-git 환경 설정</li>
+</ul>
 </body>
 </html>
