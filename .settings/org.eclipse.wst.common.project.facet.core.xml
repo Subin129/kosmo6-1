@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
+<<<<<<< HEAD
   <runtime name="BootstrapServer"/>
   <fixed facet="jst.web"/>
   <fixed facet="java"/>
@@ -7,4 +8,11 @@
   <installed facet="java" version="1.8"/>
   <installed facet="jst.web" version="4.0"/>
   <installed facet="wst.jsdt.web" version="1.0"/>
+=======
+  <runtime name="SpringMavenServer"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="jst.java"/>
+  <installed facet="jst.web" version="2.5"/>
+  <installed facet="jst.java" version="1.6"/>
+>>>>>>> branch 'master' of https://github.com/Subin129/kosmo6-1.git
 </faceted-project>

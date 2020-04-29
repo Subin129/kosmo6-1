@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+	<typeAliases>
+		<typeAlias alias="oneMemoDTO"
+			type="com.kosmo.onememo.service.OneMemoDTO" />
+
+		<!--메모코멘트는 DTO 별칭 불팔요, select 결과를 map에 저장하기때문에 -->
+
+	</typeAliases>
+
+	<mappers>
+		<mapper resource="mybatis/OneMemo.xml" />
+		<mapper resource="mybatis/MemoComment.xml" />
+
+	</mappers>
+
+
+
+</configuration>
