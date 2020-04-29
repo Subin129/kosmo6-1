@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>index.jsp 수정
+</title>
 </head>
 <body>
 
